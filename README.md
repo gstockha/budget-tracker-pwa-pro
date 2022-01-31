@@ -27,7 +27,7 @@
 
   Click on the link above, and start adding items and prices to your budget list
 
-  ## license
+  ## License
 
   
 
